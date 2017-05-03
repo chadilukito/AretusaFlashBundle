@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "^2.0"
+        "symfony/framework-bundle": "^2.7"
     },
     "autoload": {
         "psr-0": { "Aretusa\\Bundle\\FlashBundle": "" }
